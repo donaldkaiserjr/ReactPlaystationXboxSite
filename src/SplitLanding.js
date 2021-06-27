@@ -5,7 +5,7 @@ import "./index.css"
 
 const SplitLeft = () => {
     return(
-      <div className="split__left">
+      <div className="split left">
         <h1>Playstation 5</h1>
         <a href="https://www.playstation.com/en-us/ps5/" className="btn" target="_blank">Buy Now</a>
     </div>
@@ -16,7 +16,7 @@ const SplitLeft = () => {
 
 const SplitRight = () => {
     return (
-      <div className="split__right">
+      <div className="split right">
         <h1>XBox Series X</h1>
         <a href="https://www.xbox.com/en-US" className="btn" target="_blank">Buy Now</a>
     </div>
